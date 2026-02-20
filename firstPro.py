@@ -7,5 +7,10 @@
 #print("Priyanka\nlearning Python")
 
 # used for the tab space
-print("Priyanka\tlearning Python")
+print("Priyanka\tlearning new things")
+
+"""
+this is triple line comments
+"""
+
 
