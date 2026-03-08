@@ -44,3 +44,28 @@ age = 20
 result = "eligible to vote" if age >= 18 else "not eligible to vote"
 print(result)
 
+
+
+
+
+# practice
+marks = 87
+if marks >= 90:
+    print("you will get a phone")
+else:
+    print("you will notr get a phone for 1 week ")
+print("thank you!") 
+
+
+
+marks_1 = 87
+
+if marks_1 >= 90:
+    print("you can go to a trip")
+elif marks_1 >= 80:
+    print("you can go to a movie")
+else:
+    print("you will get one book")
+
+
+ 
