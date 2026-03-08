@@ -38,7 +38,7 @@ else:
     else:
         print("you are a senior citizen")
 
-# 5. ternary operator
+# 5. ternary operator : short hand if statment - it is used to evaluate a condition and return a value based on the condition
 # ternary operator - it is a shorthand for if else statement
 age = 20
 result = "eligible to vote" if age >= 18 else "not eligible to vote"
