@@ -115,7 +115,51 @@ print(name.strip("j"))
 print("-".join(name.split("o")))
 print(name.ljust(10, "*"))
 
+
+a = "Harry potter and the prisoner of azkaban"
+print(a.rindex("Harry"))
+
  
+#slicing
+
+ab = "after long time"
+print(ab[0:6])
+print(ab[6:10])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
